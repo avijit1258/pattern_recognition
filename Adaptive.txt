@@ -1,0 +1,30 @@
+Enter number of row
+Enter number of x's
+Enter row 1: X1: Enter row 1: X2: Enter d: Enter row 2: X1: Enter row 2: X2: Enter d: Enter row 3: X1: Enter row 3: X2: Enter d: Enter row 4: X1: Enter row 4: X2: Enter d: Enter row 5: X1: Enter row 5: X2: Enter d: Enter row 6: X1: Enter row 6: X2: Enter d: Enter K:Enter C:
+
+   t   i  x1  x2   o w0   o w1   o w2   D   Error?   n w0   n w1   n w2
+   1   1   0   0      0      0      0   0    No         0      0      0
+   2   2   2   1      0      0      0   0    No         0      0      0
+   3   3   1   2      0      0      0   0    Yes       -1     -1     -2
+   4   4   2   3     -1     -1     -2  -9    No        -1     -1     -2
+   5   5   2   2     -1     -1     -2  -7    Yes        0      1      0
+   6   6   3   3      0      1      0   3    Yes       -1     -2     -3
+   7   1   0   0     -1     -2     -3  -1    Yes        0     -2     -3
+   8   2   2   1      0     -2     -3  -7    Yes        1      0     -2
+   9   3   1   2      1      0     -2  -3    No         1      0     -2
+  10   4   2   3      1      0     -2  -5    No         1      0     -2
+  11   5   2   2      1      0     -2  -3    Yes        2      2      0
+  12   6   3   3      2      2      0   8    Yes        1     -1     -3
+  13   1   0   0      1     -1     -3   1    No         1     -1     -3
+  14   2   2   1      1     -1     -3  -4    Yes        2      1     -2
+  15   3   1   2      2      1     -2  -1    No         2      1     -2
+  16   4   2   3      2      1     -2  -2    No         2      1     -2
+  17   5   2   2      2      1     -2   0    No         2      1     -2
+  18   6   3   3      2      1     -2  -1    No         2      1     -2
+  19   1   0   0      2      1     -2   2    No         2      1     -2
+  20   2   2   1      2      1     -2   2    No         2      1     -2
+  21   3   1   2      2      1     -2  -1    No         2      1     -2
+  22   4   2   3      2      1     -2  -2    No         2      1     -2
+  23   5   2   2      2      1     -2   0    No         2      1     -2
+  24   6   3   3      2      1     -2  -1    No         2      1     -2
+2 +1x1 -2x2 
